@@ -9,7 +9,7 @@ def home():
     <html lang="tr">
     <head>
         <meta charset="UTF-8">
-        <title>TEXAS</title>
+        <title>TEXSAS</title>
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -51,7 +51,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>CEHENNEM BUZ TUTANA KADAR TEXAS</h1>
+        <h1>CEHENNEM BUZ TUTANA KADAR TEXSAS</h1>
         <a href="https://instagram.com/txs.xeons" target="_blank" class="button">
             INSTAGRAM: @txs.xeons
         </a>
